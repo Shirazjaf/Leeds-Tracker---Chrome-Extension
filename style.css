@@ -35,8 +35,22 @@ body {
     border: 2px solid green;
     text-transform: uppercase;
     font-weight: bold;
-} 
+}
+
+#save-btn {
+    margin: 1rem 0rem;
+    padding: 10px 2rem;
+    background-color: green;
+    color: white;
+    border: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
 
 #ul-el li a {
     color: green;
+}
+
+#ul-el li {
+    list-style: none;
 }
